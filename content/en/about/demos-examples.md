@@ -71,6 +71,10 @@ Modern peer-to-peer file sharing Progressive Web App.
 
 ## Full Demos & Examples
 
+**[PreactTemplate](https://munsman.github.io/PreactTemplate/)**
+A full featured Template for faster Preact development.
+[Github Project](https://github.com/MunsMan/PreactTemplate)
+
 **[Documentation Viewer](https://documentation-viewer.firebaseapp.com)**  
 View documentation.js output online.  
 [Github Project](https://github.com/developit/documentation-viewer)
